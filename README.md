@@ -13,16 +13,27 @@ The following features with total of 8693 entries were provided in the train.csv
  
  #   Columns/Features
  0   PassengerId
+ 
  1   HomePlanet
+ 
  2   CryoSleep
+ 
  3   Destination
+ 
  4   Age
+ 
  5   VIP             
+ 
  6   RoomService     
+ 
  7   FoodCourt       
+ 
  8   ShoppingMall    
+ 
  9   Spa             
+
 10   VRDeck          
+
 11   Transported       
 
 
