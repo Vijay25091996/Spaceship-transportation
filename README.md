@@ -58,9 +58,13 @@ And in this case we have the features 'CryoSleep','VIP','Transported','Destinati
 
 
 Feature 'CryoSleep' which has 2 categorical entries ('True','False')
+
 Feature 'VIP' which has 2 categorical entries ('True','False')
+
 Feature 'Transported' which has 2 categorical entries ('True','False')
+
 Feature 'Destination' which has 3 categorical entries ('PSO J318.5-22','TRAPPIST-1e','55 Cancri e')
+
 Feature 'HomePlanet' which has 3 categorical entries ('Europa','Earth','Mars')
 
 all of them were one hot encoded with drop_first= True
