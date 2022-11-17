@@ -55,7 +55,7 @@ All were roughly around 180-200 nos per feature
 
 I thought of to start cleaning with 'Age' just like "Titanic problem" but the catch observed her is that the box plot variations are overlapped 
 
-Tried all the plots to resolve the nulls but the distribution is so bad that if mean of it is taken and mapped to null it will spoil the model training.
+Tried all the plots to resolve the nulls but the distribution is so bad that even if mean of it is taken and mapped to null it will spoil the model training.
 
 Hence
 
