@@ -44,11 +44,11 @@ All were roughly around 180-200 nos per feature
 
 I thought of to start cleaning with 'Age' just like "Titanic problem" but the catch observed her is that the box plot variations are overlapped 
 
-Tried all the plots to resolve the nulls but the distribution is so bad that if mean of it is taken and mapped to null we it can spoil the model training.
+Tried all the plots to resolve the nulls but the distribution is so bad that if mean of it is taken and mapped to null it will spoil the model training.
 
 Hence
 
-on Applying .dropna() on the training set we get 7620 entries  which is 87 % of the actual old training dataset
+Applying .dropna() on the training set we get 7620 entries  which is 87 % of the actual old training dataset
 
  
 Then for any dataset to be fed into Machine Learning Model it should be numerised or one hot encoded.
